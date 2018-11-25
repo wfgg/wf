@@ -1,6 +1,6 @@
 {
 	"versionCode":1.0,
-	"versionName":"1.0.0",
+	"versionName":"1.0",
 	"fileSize":"35.93M",
 	"apkUrl":"http://www.lofter.com/rsc/android/lofter.apk",
 	"required":false,
